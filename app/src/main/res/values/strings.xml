@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">votos</string>
+    <string name="nombre_main">Nombre</string>
+    <string name="EditCedula">Cedula</string>
+    <string name="EditFecha">Fecha de nacimiento</string>
+    <string name="Votacion">Votacion</string>
+    <string name="Enviar">Enviar</string>
+    <string name="Imprimir">Imprimir</string>
+
+
+</resources>
